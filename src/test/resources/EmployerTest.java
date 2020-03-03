@@ -6,7 +6,7 @@ public class EmployerTest {
 	Empoloyer e3=new Employer();
 	
 	
-@Test
+
 @Test
 public void salaireTest() {
 	

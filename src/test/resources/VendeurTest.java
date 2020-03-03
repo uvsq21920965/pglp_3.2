@@ -5,7 +5,7 @@ public class VendeurTest {
 	Vendeur v2=new Vendeur(120);
 	Vendeur v3=new Vendeur(0);
 	
-	
+"test methodes"	
 @Test
 public void salaireTest() {
 	

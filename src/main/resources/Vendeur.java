@@ -1,7 +1,7 @@
 
 public class Vendeur extends Employer{
 	
-	private double commission;
+	private double commission;private m;
 	
 	public Vendeur(double commission) 
 		super();
