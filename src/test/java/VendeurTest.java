@@ -1,9 +1,7 @@
 import static org.junit.Assert.assertEquals;
-
 import org.junit.Test;
-import static org.junit.Assert.*;
+import fr.uvsq21920965.pglp32.Vendeur;
 
-import org.junit.Test;
 public class VendeurTest {
 
 	/**

@@ -1,6 +1,6 @@
 import static org.junit.Assert.*;
 import org.junit.Test;
-
+import  fr.uvsq21920965.pglp32.Employe;
 public class EmployeTest{
 	/**
 	 * creer des instances d'employe.

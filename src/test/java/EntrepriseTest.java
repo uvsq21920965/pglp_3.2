@@ -1,6 +1,9 @@
 
 import static org.junit.Assert.*;
 import org.junit.Test;
+import fr.uvsq21920965.pglp32.Employe;
+import fr.uvsq21920965.pglp32.Vendeur;
+import fr.uvsq21920965.pglp32.Entreprise;
 
 public class EntrepriseTest {
 
