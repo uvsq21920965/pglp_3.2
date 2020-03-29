@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.0.0" sequence="0" timestamp="1585519740000" analysisTimestamp="1585521168784" release="">
+  <Project projectName="pglp_3.2">
+    <Jar>/home/oem/git/pglp_3.2/target/classes</Jar>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Mon, 30 Mar 2020 00:09:00 +0200" total_classes="5" referenced_classes="16" total_bugs="0" total_size="42" num_packages="1" java_version="1.8.0_222" vm_version="25.222-b10" cpu_seconds="9.43" clock_seconds="3.90" peak_mbytes="106.46" alloc_mbytes="455.50" gc_seconds="0.04">
+    <FileStats path="fr/uvsq21920965/pglp32/Employe.java" bugCount="0" size="10"/>
+    <FileStats path="fr/uvsq21920965/pglp32/Entreprise.java" bugCount="0" size="14"/>
+    <FileStats path="fr/uvsq21920965/pglp32/Manager.java" bugCount="0" size="9"/>
+    <FileStats path="fr/uvsq21920965/pglp32/Vendeur.java" bugCount="0" size="8"/>
+    <FileStats path="fr/uvsq21920965/pglp32/package-info.java" bugCount="0" size="1"/>
+    <PackageStats package="fr.uvsq21920965.pglp32" total_bugs="0" total_types="5" total_size="42">
+      <ClassStats class="fr.uvsq21920965.pglp32.Employe" sourceFile="Employe.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="fr.uvsq21920965.pglp32.Entreprise" sourceFile="Entreprise.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="fr.uvsq21920965.pglp32.Manager" sourceFile="Manager.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="fr.uvsq21920965.pglp32.Vendeur" sourceFile="Vendeur.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="fr.uvsq21920965.pglp32.package-info" sourceFile="package-info.java" interface="true" size="1" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="806" invocations="322" avgMicrosecondsPerInvocation="2504" maxMicrosecondsPerInvocation="90246" standardDeviationMicrosecondsPerInvocation="8970"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="454" invocations="319" avgMicrosecondsPerInvocation="1424" maxMicrosecondsPerInvocation="41363" standardDeviationMicrosecondsPerInvocation="3591"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="100" invocations="16" avgMicrosecondsPerInvocation="6295" maxMicrosecondsPerInvocation="27093" standardDeviationMicrosecondsPerInvocation="8935"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="84" invocations="9" avgMicrosecondsPerInvocation="9346" maxMicrosecondsPerInvocation="80409" standardDeviationMicrosecondsPerInvocation="25125"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="83" invocations="287" avgMicrosecondsPerInvocation="292" maxMicrosecondsPerInvocation="4887" standardDeviationMicrosecondsPerInvocation="586"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="74" invocations="57" avgMicrosecondsPerInvocation="1305" maxMicrosecondsPerInvocation="7410" standardDeviationMicrosecondsPerInvocation="1272"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="68" invocations="35" avgMicrosecondsPerInvocation="1944" maxMicrosecondsPerInvocation="47076" standardDeviationMicrosecondsPerInvocation="7874"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="62" invocations="16" avgMicrosecondsPerInvocation="3891" maxMicrosecondsPerInvocation="29330" standardDeviationMicrosecondsPerInvocation="6963"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="59" invocations="9" avgMicrosecondsPerInvocation="6661" maxMicrosecondsPerInvocation="37398" standardDeviationMicrosecondsPerInvocation="12153"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
