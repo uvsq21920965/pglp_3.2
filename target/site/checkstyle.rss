@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2020</copyright>
     <item>
-      <title>File: 5,
+      <title>File: 1,
              Errors: 0,
-             Warnings: 65,
+             Warnings: 0,
              Infos: 0
       </title>
             <link>${project.url}/checkstyle.html</link>
@@ -46,69 +46,13 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#fr.uvsq21920965.pglp32.Entreprise.java">fr/uvsq21920965/pglp32/Entreprise.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  21
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#fr.uvsq21920965.pglp32.Employe.java">fr/uvsq21920965/pglp32/Employe.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  13
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#fr.uvsq21920965.pglp32.Manager.java">fr/uvsq21920965/pglp32/Manager.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  16
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="${project.url}/checkstyle.html#fr.uvsq21920965.pglp32.Vendeur.java">fr/uvsq21920965/pglp32/Vendeur.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  14
-                </td>
-                <td>
                   0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#fr.uvsq21920965.pglp32.package-info.java">fr/uvsq21920965/pglp32/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
                 </td>
                 <td>
                   0
